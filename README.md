@@ -21,7 +21,7 @@ The easiest way to get started is to clone the repository:
 ```bash
 # File > New > Project From Version Control 
 # Copy to URL
-git@github.com:emrtnm/TestMersys.git
+https://github.com/rustem626
 
 # open project at Intellij
 # select project JDK
